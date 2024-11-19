@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-17T15:41:37 EST" name="Default suite" finished-at="2021-11-17T15:44:02 EST" duration-ms="145645">
+    <groups>
+    </groups>
+    <test started-at="2021-11-17T15:41:37 EST" name="Default test" finished-at="2021-11-17T15:44:02 EST" duration-ms="145645">
+      <class name="TestCases.CreerUnNouveauLien">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TestCases.CreerUnNouveauLien@e15b7e8]" started-at="2021-11-17T15:41:37 EST" name="beforeTest" finished-at="2021-11-17T15:41:37 EST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.CreerUnNouveauLien@e15b7e8]" started-at="2021-11-17T15:41:37 EST" name="setup" finished-at="2021-11-17T15:41:41 EST" duration-ms="4588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestCreerUnNouveauLien()[pri:1, instance:TestCases.CreerUnNouveauLien@e15b7e8]" started-at="2021-11-17T15:41:41 EST" name="TestCreerUnNouveauLien" finished-at="2021-11-17T15:44:02 EST" duration-ms="140572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCreerUnNouveauLien -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.CreerUnNouveauLien@e15b7e8]" started-at="2021-11-17T15:44:02 EST" name="teardown" finished-at="2021-11-17T15:44:02 EST" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TestCases.CreerUnNouveauLien@e15b7e8]" started-at="2021-11-17T15:44:02 EST" name="afterTest" finished-at="2021-11-17T15:44:02 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestCases.CreerUnNouveauLien -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
